@@ -1,0 +1,120 @@
+# Markdown入门
+
+## 标题
+
+### 我爱Markdown
+
+***
+
+## 列表
+
+- 简洁
+- 好看
+- 方便
+
+1. 喜欢
+2. 爱编辑
+3. 自由
+
+***
+
+## 区块引用
+
+> 例如上面的列表与标题都非常的清晰
+
+***
+
+## 链接
+
+[runoob]( https://subcomputation/markdown/md-tutorial.html)
+
+***
+
+## 图片
+
+![emoj](https://cdn.sspai.com/attachment/origin/2014/04/15/69495.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+
+***
+
+## 表格
+
+| Tables        |      Are      |  Cool |
+| ------------- | :-----------: | ----: |
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      |   centered    |   $12 |
+| zebra stripes |   are neat    |    $1 |
+
+***
+
+## 代码框
+
+```
+`#!/bin/bash
+#bnohup /opt/redis/hsscxs6a_daemon.sh >/dev/null 2>&1 &
+#v3
+while true
+do
+        vrrp=`ifconfig |grep 10.247.223.23 |wc -l`
+        if [ $vrrp -eq 1 ]
+        then
+         	ps -eaf |grep  ims_daemon.sh |grep -v grep | awk '{print $2}' | xargs kill -9
+        	sleep 1
+        	killall ser
+        	sleep 1
+        fi
+done
+```
+
+***
+
+## 字体
+
+*斜体*
+
+_斜体_
+
+**粗体**
+
+__粗体__
+
+***粗斜体***
+
+___粗斜体___
+
+***
+
+## 分隔线
+
+***
+
+* * *
+
+*****
+
+---
+
+-----------
+
+## 删除线
+
+~~baidu.com~~
+
+***
+
+## 下划线
+
+<u>下划线文本</u>
+
+***
+
+## 脚注
+
+创建脚注如这样[^奋斗]:
+
+创建脚注如这样[^RUNOOB]: 
+
+[^RUNOOB]: 菜鸟教程 -- 学的不仅是技术，更是梦想！！！
+[^奋斗]: 中年人的坚持。
+
+***
+
