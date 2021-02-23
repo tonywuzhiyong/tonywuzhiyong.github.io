@@ -1,6 +1,6 @@
 # Site settings
 title: Bigboy Blog
-SEOTitle: 解忧吴忧的博客 | Bigboy Blog
+SEOTitle: 解忧吴帅的博客 | Bigboy Blog
 header-img: img/home-bg.jpg
 email: 2636706907@qq.com
 description: "May Your Heart Be The Map"
@@ -75,8 +75,8 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Bebop.C Blog",
-        href: "http://playingfingers.com"
+        title: "Bigboy Blog",
+        href: "https://www.iplook.top"
     },{
         title: "Spike Spiegel",
         href: "#"
