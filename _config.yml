@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     解忧吴帅
-zhihu_username:     解忧吴帅
-github_username:    解忧吴帅
-twitter_username:   解忧吴帅
+weibo_username:     https://weibo.com/wzybboy
+zhihu_username:     https://www.zhihu.com/people/wu-zhi-yong-97-59
+github_username:    https://github.com/tonywuzhiyong
+twitter_username:   https://www.iplook.com
 #facebook_username:  解忧吴帅
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -78,7 +78,7 @@ ga_domain: www.iplook.top
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "解忧吴帅，前端娱乐圈 NPC，编程语言/编译器初心者 <br> An UI/Frontend dev & designer accidentally growing into a compiler/PL hacker."
+sidebar-about-description: "解忧吴帅，前端从入门到放弃，通信核心网工程师4G/5G <br> There's no time limit. Start whenever you want."
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
