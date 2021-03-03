@@ -2,7 +2,7 @@ Hello, I'm Jieyu Wu Shuai!Siege lion, computer undergraduate.Mainly use shell, P
 
 
 
-Basketball fan, like NBA, keen on open source and cloud computing technology.Busy daily visits to [blog](https://www.iplook.com) , [weibo](https://www.iplook.com) , [zhihu](https://www.iplook.com) and [Twitter](https://www.iplook.com) , [making](https://www.iplook.com), [Medium](https://www.iplook.com).
+Basketball fan, like NBA, keen on open source and cloud computing technology.Busy daily visits to [blog](https://www.iplook.com) , [weibo](https://weibo.com/wzybboy) , [zhihu](https://www.zhihu.com/people/wu-zhi-yong-97-59) and [Twitter](https://www.iplook.com) , [Github](https://github.com/tonywuzhiyong), [Medium](https://www.iplook.com).
 
 
 
