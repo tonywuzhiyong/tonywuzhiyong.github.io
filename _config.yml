@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     https://weibo.com/wzybboy
-zhihu_username:     https://www.zhihu.com/people/wu-zhi-yong-97-59
-github_username:    https://github.com/tonywuzhiyong
-twitter_username:   https://www.iplook.com
+weibo_username:     wzybboy
+zhihu_username:     wu-zhi-yong-97-59
+github_username:    tonywuzhiyong
+twitter_username:   www.iplook.com
 #facebook_username:  解忧吴帅
 #linkedin_username:  firstname-lastname-idxxxx
 
